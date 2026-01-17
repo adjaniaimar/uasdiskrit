@@ -5,4 +5,5 @@ KELAS : TI25C5
 
 ## LINK YOUTUBE
 
-## LINK PDF
+## LINK JAWABAN
+https://github.com/adjaniaimar/uasdiskrit/blob/main/UAS%20MATEMATIKA%20DISKRIT%20-%20NEVILLAZSB%20(312510352).pdf
